@@ -15,7 +15,7 @@
 ## 👥 Team Info
 - **팀명**: 2조 (無色無光 - 없을 무, 빛 색, 없을 무, 빛 광)
 - **팀원**: 이진우 · 고성운 · 황규범
-- **발표 자료**: [프레젠테이션](https://docs.google.com/presentation/d/1ApCFfZzf_D2mYTSFcA1GCaDK9Jv3D6v9RlgkbTWBFfI/edit?usp=sharing)](https://www.canva.com/design/DAGzxtezNq8/bdiYyEcsSGlipfPmrBvcYQ/edit?utm_content=DAGzxtezNq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **발표 자료**: [프레젠테이션](https://docs.google.com/presentation/d/1ApCFfZzf_D2mYTSFcA1GCaDK9Jv3D6v9RlgkbTWBFfI/edit?usp=sharing)[Canva](https://www.canva.com/design/DAGzxtezNq8/bdiYyEcsSGlipfPmrBvcYQ/edit?utm_content=DAGzxtezNq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 <br/>
