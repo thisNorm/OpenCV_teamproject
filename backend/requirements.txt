@@ -2,6 +2,6 @@ fastapi>=0.141.1,<1
 uvicorn[standard]>=0.52.4,<0.53
 python-multipart>=0.0.32,<0.0.33
 pillow>=12.3.0,<13
-numpy==2.5.2
+numpy==2.5.3
 opencv-python>=5.0.0.93,<5.1
 paddleocr==3.7.0
