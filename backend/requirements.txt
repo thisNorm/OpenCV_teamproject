@@ -1,5 +1,5 @@
 fastapi>=0.141.1,<1
-uvicorn[standard]>=0.52.4,<0.53
+uvicorn[standard]>=0.53.0,<0.54
 python-multipart>=0.0.32,<0.0.33
 pillow>=12.3.0,<13
 numpy==2.5.3
