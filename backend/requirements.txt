@@ -1,7 +1,7 @@
-fastapi>=0.143.0,<1
+fastapi>=0.143.2,<1
 uvicorn[standard]>=0.54.0,<0.55
 python-multipart>=0.0.32,<0.0.33
 pillow>=12.3.0,<13
-numpy==2.5.3
+numpy==2.5.4
 opencv-python>=5.0.0.93,<5.1
 paddleocr==3.7.0
